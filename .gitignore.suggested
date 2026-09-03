@@ -1,0 +1,6 @@
+# Optional: the two largest joined fact tables (~46MB combined) are fully
+# reproducible by running scripts/02_clean_validate_join.py — rename this
+# file to `.gitignore` if your repo host pushes back on file size, and
+# mention in your README that they're generated, not source data.
+data_clean/fact_sales.csv
+data_clean/fact_purchase_orders.csv
