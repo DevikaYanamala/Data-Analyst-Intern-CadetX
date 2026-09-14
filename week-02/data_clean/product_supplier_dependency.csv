@@ -1,0 +1,31 @@
+n_suppliers,top_supplier_share_pct,product_id,product_name
+8,13.4,P001,Hydraulic Pump HP-300
+8,13.4,P002,Engine Oil Filter OF-90
+8,13.2,P003,Air Filter AF-120
+8,13.1,P004,Track Chain TC-45
+8,13.3,P005,Fuel Injector FI-220
+8,12.9,P006,Alternator ALT-500
+8,13.3,P007,Hydraulic Hose HH-60
+8,13.4,P008,Bucket Tooth BT-10
+8,13.0,P009,Starter Motor SM-700
+8,13.2,P010,Turbocharger TB-900
+8,13.2,P011,Hydraulic Cylinder HC-200
+8,13.2,P012,Brake Pad BP-40
+8,12.9,P013,Seal Kit SK-15
+8,13.3,P014,Transmission Assembly TA-800
+8,13.5,P015,Engine Block EB-600
+8,13.4,P016,Radiator RD-250
+8,13.6,P017,Fan Belt FB-30
+8,13.1,P018,Wheel Rim WR-24
+8,13.0,P019,Swing Motor SWM-350
+8,13.1,P020,Pivot Pin PP-12
+8,13.4,P021,Boom Cylinder BC-400
+8,13.2,P022,Control Valve CV-75
+8,13.8,P023,Idler Wheel IW-55
+8,13.2,P024,Track Roller TR-60
+8,13.7,P025,Cabin Glass CG-20
+8,13.0,P026,Grease Cartridge GC-5
+8,13.0,P027,O-Ring Set OR-50
+8,13.5,P028,Light Assembly LA-18
+8,13.5,P029,Pressure Sensor PS-90
+8,13.6,P030,Fuel Pump FP-350

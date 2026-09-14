@@ -1,0 +1,9 @@
+supplier_name,lead_time_days,median,count,gap_days
+Guangzhou Local Vendor Supplies,10,10.0,2635,0.0
+Hangzhou OEM Supplies,26,26.0,2722,0.0
+Ningbo Distributor Supplies,18,18.0,2664,0.0
+Qingdao Distributor Supplies,10,10.0,2752,0.0
+Shanghai Distributor Supplies,16,16.0,2723,0.0
+Shenzhen OEM Supplies,19,19.0,2653,0.0
+Suzhou Local Vendor Supplies,12,12.0,2727,0.0
+Tianjin OEM Supplies,28,28.0,2754,0.0
