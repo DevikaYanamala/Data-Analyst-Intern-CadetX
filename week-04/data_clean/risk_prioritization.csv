@@ -1,0 +1,31 @@
+product_id,product_name,margin_abc_class,margin_share_pct,margin_pct,n_suppliers,supplier_name,reliability_score,single_sourced,n_branches_flagged,criticality_level,priority_score
+P015,Engine Block EB-600,A,19.37,19.7,8,Tianjin OEM Supplies,3,False,6,High,4
+P021,Boom Cylinder BC-400,A,8.96,22.9,8,Ningbo Distributor Supplies,3,False,5,High,4
+P004,Track Chain TC-45,A,6.06,18.3,8,Tianjin OEM Supplies,3,False,6,High,4
+P019,Swing Motor SWM-350,A,7.21,21.6,8,Tianjin OEM Supplies,3,False,5,High,4
+P011,Hydraulic Cylinder HC-200,A,5.18,22.1,8,Tianjin OEM Supplies,3,False,4,High,4
+P030,Fuel Pump FP-350,A,4.6,25.1,8,Qingdao Distributor Supplies,3,False,3,High,4
+P014,Transmission Assembly TA-800,A,12.31,18.0,8,Suzhou Local Vendor Supplies,5,False,6,High,3
+P010,Turbocharger TB-900,A,5.14,17.2,8,Hangzhou OEM Supplies,4,False,6,High,3
+P024,Track Roller TR-60,B,2.33,28.2,8,Qingdao Distributor Supplies,3,False,3,High,3
+P001,Hydraulic Pump HP-300,B,4.59,22.7,8,Suzhou Local Vendor Supplies,5,False,2,High,2
+P022,Control Valve CV-75,B,3.42,24.3,8,Hangzhou OEM Supplies,4,False,3,High,2
+P023,Idler Wheel IW-55,B,3.04,29.0,8,Shanghai Distributor Supplies,4,False,4,High,2
+P009,Starter Motor SM-700,B,2.83,23.2,8,Guangzhou Local Vendor Supplies,5,False,5,High,2
+P018,Wheel Rim WR-24,B,2.54,27.4,8,Shenzhen OEM Supplies,5,False,2,High,2
+P006,Alternator ALT-500,B,2.17,22.8,8,Suzhou Local Vendor Supplies,5,False,4,High,2
+P016,Radiator RD-250,C,2.03,23.5,8,Tianjin OEM Supplies,3,False,3,Medium,2
+P025,Cabin Glass CG-20,C,1.87,28.7,8,Qingdao Distributor Supplies,3,False,1,Medium,2
+P012,Brake Pad BP-40,C,0.54,26.5,8,Ningbo Distributor Supplies,3,False,1,Medium,2
+P020,Pivot Pin PP-12,C,0.33,34.8,8,Qingdao Distributor Supplies,3,False,1,Medium,2
+P005,Fuel Injector FI-220,C,1.72,24.9,8,Shenzhen OEM Supplies,5,False,2,High,1
+P028,Light Assembly LA-18,C,0.67,35.6,8,Qingdao Distributor Supplies,3,False,0,Medium,1
+P029,Pressure Sensor PS-90,C,1.03,30.4,8,Suzhou Local Vendor Supplies,5,False,1,Medium,1
+P013,Seal Kit SK-15,C,0.4,34.5,8,Guangzhou Local Vendor Supplies,5,False,2,Medium,1
+P007,Hydraulic Hose HH-60,C,0.4,32.4,8,Qingdao Distributor Supplies,3,False,0,Medium,1
+P002,Engine Oil Filter OF-90,C,0.22,37.5,8,Tianjin OEM Supplies,3,False,0,Medium,1
+P008,Bucket Tooth BT-10,C,0.2,41.4,8,Suzhou Local Vendor Supplies,5,False,2,Low,1
+P026,Grease Cartridge GC-5,C,0.11,41.9,8,Tianjin OEM Supplies,3,False,0,Low,1
+P003,Air Filter AF-120,C,0.36,34.4,8,Guangzhou Local Vendor Supplies,5,False,0,Medium,0
+P027,O-Ring Set OR-50,C,0.18,45.8,8,Guangzhou Local Vendor Supplies,5,False,0,Low,0
+P017,Fan Belt FB-30,C,0.17,38.5,8,Shanghai Distributor Supplies,4,False,0,Medium,0
