@@ -12,13 +12,15 @@ warehouse data to build a data-driven warehouse intelligence capability.
 |---|---|---|
 | [1](week-01/) | Foundation & Exploration | Filename/data-integrity audit, profiling, referential-integrity validation, cleaned + joined dataset, data dictionary, 5 first-cut KPIs |
 | [2](week-02/) | Foundation & Exploration | Supplier master integrated, stock-ledger anomaly root-caused, feature engineering for later phases |
+| [3](week-03/) | Foundation & Exploration (final week) | Seasonality/trend analysis replacing Week 2's uninformative CV metric, ABC classification + fast/slow-mover preview, draft Phase 2 task list |
 
 ## Repo structure
 
 ```
 ├── week-01/    foundation: profiling, cleaning, first KPIs (see week-01/README.md)
 ├── week-02/    supplier integration, anomaly root cause, features (see week-02/README.md)
-└── ...         (week-03 onward, added as the programme progresses)
+├── week-03/    seasonality/trend, ABC preview, Phase 2 draft (see week-03/README.md)
+└── ...         (Phase 2 onward, added as the programme progresses)
 ```
 
 Each week's folder is self-contained: its own `scripts/`, `data_clean/`,

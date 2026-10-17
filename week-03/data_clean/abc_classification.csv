@@ -1,0 +1,31 @@
+product_id,total_revenue,total_units,revenue_share_pct,cum_revenue_pct,abc_class,mover_speed,product_name,category
+P015,6888215040.0,45222,21.24,21.24,A,slow,Engine Block EB-600,Engine
+P014,4813340800.0,45035,14.84,36.08,A,slow,Transmission Assembly TA-800,Transmission
+P021,2741781504.0,46364,8.46,44.54,A,fast,Boom Cylinder BC-400,Hydraulic
+P019,2341946624.0,45971,7.22,51.76,A,fast,Swing Motor SWM-350,Hydraulic
+P004,2321772800.0,45575,7.16,58.92,A,mid,Track Chain TC-45,Undercarriage
+P010,2097975808.0,46964,6.47,65.39,A,fast,Turbocharger TB-900,Engine
+P011,1646708736.0,46612,5.08,70.47,B,fast,Hydraulic Cylinder HC-200,Hydraulic
+P001,1423399040.0,45389,4.39,74.86,B,mid,Hydraulic Pump HP-300,Hydraulic
+P030,1286584704.0,45897,3.97,78.83,B,mid,Fuel Pump FP-350,Engine
+P022,991156608.0,45819,3.06,81.89,B,mid,Control Valve CV-75,Hydraulic
+P009,857210112.0,44946,2.64,84.53,B,slow,Starter Motor SM-700,Electrical
+P023,736587712.0,44437,2.27,86.8,B,slow,Idler Wheel IW-55,Undercarriage
+P006,669935616.0,46731,2.07,88.87,B,fast,Alternator ALT-500,Electrical
+P018,651270528.0,45027,2.01,90.88,C,slow,Wheel Rim WR-24,Undercarriage
+P024,580386048.0,44022,1.79,92.67,C,slow,Track Roller TR-60,Undercarriage
+P016,557339016.0,46306,1.72,94.39,C,fast,Radiator RD-250,Cooling
+P005,487001216.0,45026,1.5,95.89,C,slow,Fuel Injector FI-220,Engine
+P025,422374274.0,45598,1.3,97.19,C,mid,Cabin Glass CG-20,Cabin
+P029,219374626.0,47066,0.68,97.87,C,fast,Pressure Sensor PS-90,Sensors
+P012,144168192.0,45972,0.44,98.31,C,fast,Brake Pad BP-40,Brakes
+P028,122565420.0,46164,0.38,98.69,C,fast,Light Assembly LA-18,Electrical
+P007,79506748.0,46468,0.25,98.94,C,fast,Hydraulic Hose HH-60,Hydraulic
+P013,75422591.0,44081,0.23,99.17,C,slow,Seal Kit SK-15,Seals
+P003,67383900.0,45684,0.21,99.38,C,mid,Air Filter AF-120,Filters
+P020,61526380.0,45340,0.19,99.57,C,slow,Pivot Pin PP-12,Pins & Bushes
+P002,38522563.2,45342,0.12,99.69,C,mid,Engine Oil Filter OF-90,Filters
+P008,31055334.4,45376,0.1,99.79,C,mid,Bucket Tooth BT-10,Attachments
+P017,27966660.8,45578,0.09,99.88,C,mid,Fan Belt FB-30,Belts
+P027,25872019.2,45678,0.08,99.96,C,mid,O-Ring Set OR-50,Seals
+P026,16403935.2,44844,0.05,100.01,C,slow,Grease Cartridge GC-5,Lubricants

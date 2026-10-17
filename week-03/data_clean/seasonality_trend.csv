@@ -1,0 +1,31 @@
+product_id,avg_monthly_units,trend_slope_units_per_month,trend_total_change_pct,trend_direction,seasonal_amplitude_units,seasonal_amplitude_pct_of_mean,peak_month,low_month,anova_pvalue,seasonality_significant_p05,product_name,category
+P020,629.7,-0.638,-7.3,flat,241.8,38.4,Aug,Jun,0.0054,True,Pivot Pin PP-12,Pins & Bushes
+P016,643.1,0.165,1.8,flat,222.3,34.6,Jul,Feb,0.0224,True,Radiator RD-250,Cooling
+P028,641.2,-1.149,-12.9,flat,220.5,34.4,Mar,Feb,0.0333,True,Light Assembly LA-18,Electrical
+P009,624.2,-0.866,-10.0,flat,193.7,31.0,Aug,Feb,0.0786,False,Starter Motor SM-700,Electrical
+P019,638.5,-0.503,-5.7,flat,187.9,29.4,Dec,Apr,0.1317,False,Swing Motor SWM-350,Hydraulic
+P030,637.5,0.202,2.3,flat,179.5,28.2,Jul,Dec,0.0807,False,Fuel Pump FP-350,Engine
+P022,636.4,-0.165,-1.9,flat,169.7,26.7,Aug,Feb,0.2921,False,Control Valve CV-75,Hydraulic
+P023,617.2,-0.534,-6.2,flat,163.4,26.5,Sep,Jun,0.446,False,Idler Wheel IW-55,Undercarriage
+P024,611.4,0.266,3.1,flat,155.1,25.4,Jul,Oct,0.1191,False,Track Roller TR-60,Undercarriage
+P004,633.0,0.003,0.0,flat,160.6,25.4,Sep,Mar,0.099,False,Track Chain TC-45,Undercarriage
+P017,633.0,-0.505,-5.7,flat,159.7,25.2,Oct,Feb,0.3266,False,Fan Belt FB-30,Belts
+P005,625.4,-0.742,-8.5,flat,155.1,24.8,Aug,Feb,0.3576,False,Fuel Injector FI-220,Engine
+P025,633.3,-0.678,-7.7,flat,155.8,24.6,Mar,Feb,0.2176,False,Cabin Glass CG-20,Cabin
+P014,625.5,0.277,3.2,flat,145.9,23.3,Jan,Jun,0.4081,False,Transmission Assembly TA-800,Transmission
+P011,647.4,0.244,2.7,flat,149.4,23.1,Oct,Feb,0.3766,False,Hydraulic Cylinder HC-200,Hydraulic
+P021,643.9,-0.315,-3.5,flat,144.9,22.5,May,Feb,0.7148,False,Boom Cylinder BC-400,Hydraulic
+P013,612.2,-0.035,-0.4,flat,134.7,22.0,Aug,Jun,0.4646,False,Seal Kit SK-15,Seals
+P018,625.4,-0.47,-5.4,flat,137.5,22.0,Sep,Feb,0.5015,False,Wheel Rim WR-24,Undercarriage
+P027,634.4,0.119,1.3,flat,137.6,21.7,Aug,Feb,0.4354,False,O-Ring Set OR-50,Seals
+P001,630.4,0.141,1.6,flat,128.5,20.4,Jul,Feb,0.5621,False,Hydraulic Pump HP-300,Hydraulic
+P003,634.5,0.081,0.9,flat,127.5,20.1,Aug,Jun,0.228,False,Air Filter AF-120,Filters
+P006,649.0,1.15,12.8,flat,129.8,20.0,Sep,Apr,0.7389,False,Alternator ALT-500,Electrical
+P002,629.8,0.089,1.0,flat,121.1,19.2,Aug,Feb,0.5641,False,Engine Oil Filter OF-90,Filters
+P026,622.8,0.261,3.0,flat,116.8,18.8,Aug,Apr,0.8137,False,Grease Cartridge GC-5,Lubricants
+P015,628.1,-0.48,-5.5,flat,116.5,18.6,Oct,Nov,0.5486,False,Engine Block EB-600,Engine
+P008,630.2,0.239,2.7,flat,117.4,18.6,Jul,Jun,0.6998,False,Bucket Tooth BT-10,Attachments
+P010,652.3,-0.768,-8.5,flat,120.8,18.5,Jul,Feb,0.6551,False,Turbocharger TB-900,Engine
+P007,645.4,-0.209,-2.3,flat,110.2,17.1,Oct,Feb,0.2453,False,Hydraulic Hose HH-60,Hydraulic
+P029,653.7,0.006,0.1,flat,99.8,15.3,Jan,Feb,0.3568,False,Pressure Sensor PS-90,Sensors
+P012,638.5,-1.088,-12.3,flat,87.7,13.7,Dec,Feb,0.8682,False,Brake Pad BP-40,Brakes
